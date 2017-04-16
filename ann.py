@@ -86,7 +86,7 @@ class NeuralNetworks:
 input_nodes = 784 		#28*28
 hidden_nodes = 300
 output_nodes = 10
-learning_rate = 0.2
+learning_rate = 0.15
 
 #creating an instance of the class.....
 n = NeuralNetworks(input_nodes , hidden_nodes , output_nodes , learning_rate)

@@ -1,11 +1,3 @@
-""" Now that the user can read in a file this creates a model which uses the price, class and gender
-Author : AstroDave
-Date : 18th September 2012
-Revised : 28 March 2014
-
-"""
-
-
 import csv as csv
 import numpy as np
 

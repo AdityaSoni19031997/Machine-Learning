@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-num_points = 2000
+num_points = 20000
 vectors_set = []
 for i in range(num_points):
     if np.random.random() > 0.5:

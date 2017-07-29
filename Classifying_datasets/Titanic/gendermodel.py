@@ -1,11 +1,3 @@
-""" This simple code is desinged to teach a basic user to read in the files in python, simply find what proportion of males and females survived and make a predictive model based on this
-Author : AstroDave
-Date : 18 September 2012
-Revised: 28 March 2014
-
-"""
-
-
 import csv as csv
 import numpy as np
 

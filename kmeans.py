@@ -29,7 +29,7 @@ expanded_vectors = tf.expand_dims(vectors , 0)
 expanded_centroides = tf.expand_dims(centroides , 1)
 
 assignments = tf.argmin(tf.reduce_sum(tf.square(tf.subtract(expanded_vectors , expanded_centroides)) , 2) , 0)
-means = tf.concat([tf.reduce_mean(tf.gather(vectors , tf.reshape(tf.where(tf.equal(assignments , c)) , [1 , -1])) , reduction_indices = [1]) for c in range(k)] , 0s)
+means = tf.concat([tf.reduce_mean(tf.gather(vectors , tf.reshape(tf.where(tf.equal(assignments , c)) , [1 , -1])) , reduction_indices = [1]) for c in range(k)] , 0)
 update_centroides = tf.assign(centroides , means)
 init_op = tf.initialize_all_variables()
 

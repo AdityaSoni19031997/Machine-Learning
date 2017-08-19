@@ -1,4 +1,4 @@
-## FTU Curriculums - Machine Learning & Deep Learning
+## Machine Learning & Deep Learning
 
 Loose path:
 1. Math

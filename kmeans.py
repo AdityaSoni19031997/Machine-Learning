@@ -1,4 +1,5 @@
 #implementing kmeans Clustering Using Toy Dataset and TensorFlow
+#With Reference to the book First Contact with Tensorflow
 
 import numpy as np
 import tensorflow as tf

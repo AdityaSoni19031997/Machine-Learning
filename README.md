@@ -129,83 +129,47 @@ General Neural Network References:
 
 **Tutorials/Videos:
 
-[Youtube Playlist on “Deep Learning”, t from Oxford U. by Nando de Freitas]
+[Youtube Playlist on “Deep Learning”, t from Oxford U. by Nando de Freitas] (https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
-( https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+[Andrew Ng’s online course on ML at Stanford comes highly recommended](http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)
 
-[Andrew Ng’s online course on ML at Stanford comes highly recommended]: 
+[Stanford Tutorial:](http://ufldl.stanford.edu/tutorial/)
 
-(http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)
+**Concepts in NN/Deep Learning:**
 
-[Stanford Tutorial:]
+[Backpropagation (i.e. the chain rule):] (neuralnetworksanddeeplearning.org book), chapter 2
 
-(http://ufldl.stanford.edu/tutorial/)
+[Chris Olah on backprop] (http://colah.github.io/posts/2015-08-Backprop/)
 
-**Concepts in NN/Deep Learning:
-
-*[Backpropagation (i.e. the chain rule):] 
-
-(neuralnetworksanddeeplearning.org book), chapter 2
-
-*[Chris Olah on backprop]: 
-
-(http://colah.github.io/posts/2015-08-Backprop/)
-
-*[Karpathy on backprop:]
-
-( http://cs231n.github.io/optimization-2/)
+[Karpathy on backprop:] (http://cs231n.github.io/optimization-2/)
 
 **Recurrent Neural Networks (RNN) (which mostly feature LSTM nowadays):
 
 RNNs in general:
 
-Karpathy post: 
+[Karpathy post:](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 
-(http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+[Karpathy talk:](https://www.youtube.com/watch?v=yCC09vCHzF8)
 
-Karpathy talk: 
+[Excellent annotated Char-NN in Keras tutorial] (http://ml4a.github.io/guides/recurrent_neural_networks/)
 
-(https://www.youtube.com/watch?v=yCC09vCHzF8)
+[Andrew Trask post/tutorial] (https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
-[Excellent annotated Char-NN in Keras tutorial]: 
+[Denny Britz post] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
-(http://ml4a.github.io/guides/recurrent_neural_networks/)
+[Class notes/tutorial (long!)] (http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)
 
-[Andrew Trask post/tutorial]: 
+[CS class notes (short)] (https://www.willamette.edu/~gorr/classes/cs449/rnn1.html)
 
-(https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+[Excellent post by Ross Goodwin RNNs] (https://medium.com/@rossgoodwin/adventures-in-narrated-reality-6516ff395ba3#.q2xh8dp5t)
 
-[Denny Britz post]: 
+[Great List of references; ] (https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
 
-(http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+[in TensorFlow] (https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
 
-[Class notes/tutorial (long!)]: 
+[Theano tutorial] (http://deeplearning.net/tutorial/rnnslu.html)
 
-(http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)
-
-[CS class notes (short)]: 
-
-(https://www.willamette.edu/~gorr/classes/cs449/rnn1.html)
-
-[Excellent post by Ross Goodwin RNNs]: 
-
-(https://medium.com/@rossgoodwin/adventures-in-narrated-reality-6516ff395ba3#.q2xh8dp5t)
-
-[Great List of references; ]
-
-(https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
-
-[in TensorFlow]: 
-
-(https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
-
-[Theano tutorial]: 
-
-(http://deeplearning.net/tutorial/rnnslu.html)
-
-[Batch Normalization for]: 
-
-(https://arxiv.org/abs/1510.01378) 
+[Batch Normalization for] (https://arxiv.org/abs/1510.01378) 
 
 “applying batch normalization to the hidden-to-hidden transitions of our RNNs doesn’t help the training procedure. We also show that when applied to the input-to-hidden transitions, batch normalization can lead to a faster convergence of the training criterion but doesn’t seem to improve the generalization performance”
 
@@ -213,41 +177,22 @@ Karpathy talk:
 
 **Long Short-Term Memory (LSTM):
 
-[Tutorial]:
+[Tutorial] (http://nbviewer.jupyter.org/github/JonathanRaiman/theano_lstm/blob/master/Tutorial.ipynb)
 
-(http://nbviewer.jupyter.org/github/JonathanRaiman/theano_lstm/blob/master/Tutorial.ipynb)
+[Chris Olah post] (http://colah.github.io/posts/2015-08-Understanding-LSTMs)
 
-[Chris Olah post]: 
+[Zach Lipton post, “Demystifying LSTM” (with Tutorial theano code)] (http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
 
-(http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+[Demo: Lightweight Theano-LSTM] (https://github.com/JonathanRaiman/theano_lstm)
 
-[Zach Lipton post, “Demystifying LSTM” (with Tutorial theano code)]: 
-
-(http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
-
-[Demo: Lightweight Theano-LSTM]: 
-
-(https://github.com/JonathanRaiman/theano_lstm)
-
-[Massive 33-page review article by Lipton et al]:
-
-(http://arxiv.org/abs/1506.00019)
+[Massive 33-page review article by Lipton et al] (http://arxiv.org/abs/1506.00019)
 
 As of March 2016, Keras forum posts show that “stated” RNNs are still an active dev issue. (As of last year, Keras has LSTM but was resetting the “state”, = inconvenient & slow.)….Update Sept 2016: Seems to be fixed
 
-[LSTM tutorial in Tensorflow:]
+[LSTM tutorial in Tensorflow] (https://www.tensorflow.org/versions/r0.10/tutorials/recurrent/index.html)
 
-( https://www.tensorflow.org/versions/r0.10/tutorials/recurrent/index.html)
+[Stateful LSTM in Keras for time-series prediction] (https://github.com/fchollet/keras/blob/master/examples/stateful_lstm.py)
 
+[Much-need Docs on stateful LSTM in Keras] (http://philipperemy.github.io/keras-stateful-lstm/)
 
-[Stateful LSTM in Keras for time-series prediction]:
-
-(https://github.com/fchollet/keras/blob/master/examples/stateful_lstm.py)
-
-[Much-need Docs on stateful LSTM in Keras]:
-
-(http://philipperemy.github.io/keras-stateful-lstm/)
-
-[Tensorflow sequence prediction]: 
-
-(http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
+[Tensorflow sequence prediction] (http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)

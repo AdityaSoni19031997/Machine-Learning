@@ -117,7 +117,7 @@ by skipping the Math.
 
 General Neural Network References:
 
-###Books/Guides on Deep/Machine Learning: (all excellent)
+### Books/Guides on Deep/Machine Learning: (all excellent)
  
   1. http://neuralnetworksanddeeplearning.com
 
@@ -125,9 +125,9 @@ General Neural Network References:
 
   3. https://www.deeplearningbook.org
 
-###Hacker’s Guide to Neural Nets by karpathy(My Favourite)
+### Hacker’s Guide to Neural Nets by karpathy(My Favourite)
 
-###Tutorials/Videos:
+### Tutorials/Videos:
 
   1. [Youtube Playlist on “Deep Learning”, t from Oxford U. by Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
@@ -135,7 +135,7 @@ General Neural Network References:
 
   3. [Stanford Tutorial:](http://ufldl.stanford.edu/tutorial/)
 
-###Concepts in NN/Deep Learning:
+### Concepts in NN/Deep Learning:
 
   1. [Backpropagation (i.e. the chain rule)](neuralnetworksanddeeplearning.org book), chapter 2
 
@@ -143,7 +143,7 @@ General Neural Network References:
 
   3. [Karpathy on backprop](http://cs231n.github.io/optimization-2/)
 
-###Recurrent Neural Networks (RNN) (which mostly feature LSTM nowadays):
+### Recurrent Neural Networks (RNN) (which mostly feature LSTM nowadays):
 
   1. [Karpathy post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 
@@ -170,9 +170,9 @@ General Neural Network References:
   12. [Batch Normalization to the hidden-to-hidden transitions of our RNNs ](https://arxiv.org/abs/1510.01378) 
 
 
-###Traditional RNNs suffer from vanishing/exploding gradient. Hence LSTM & others…
+### Traditional RNNs suffer from vanishing/exploding gradient. Hence LSTM & others…
 
-###Long Short-Term Memory (LSTM):
+### Long Short-Term Memory (LSTM):
 
   1. [Tutorial](http://nbviewer.jupyter.org/github/JonathanRaiman/theano_lstm/blob/master/Tutorial.ipynb)
 

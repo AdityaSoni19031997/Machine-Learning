@@ -113,11 +113,11 @@ by skipping the Math.
  
 
  
-### Bonus Material
+## Bonus Material
 
 General Neural Network References:
 
-**Books/Guides on Deep/Machine Learning: (all excellent)
+##Books/Guides on Deep/Machine Learning: (all excellent)
  
   1. http://neuralnetworksanddeeplearning.com
 
@@ -125,74 +125,70 @@ General Neural Network References:
 
   3. https://www.deeplearningbook.org
 
-**Hacker’s Guide to Neural Nets by karpathy(My Favourite)
+##Hacker’s Guide to Neural Nets by karpathy(My Favourite)
 
-**Tutorials/Videos:
+##Tutorials/Videos:
 
-[Youtube Playlist on “Deep Learning”, t from Oxford U. by Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+  1. [Youtube Playlist on “Deep Learning”, t from Oxford U. by Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
-[Andrew Ng’s online course on ML at Stanford comes highly recommended](http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)
+  2. [Andrew Ng’s online course on ML at Stanford comes highly recommended](http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)
 
-[Stanford Tutorial:](http://ufldl.stanford.edu/tutorial/)
+  3. [Stanford Tutorial:](http://ufldl.stanford.edu/tutorial/)
 
-**Concepts in NN/Deep Learning:
+##Concepts in NN/Deep Learning:
 
-[Backpropagation (i.e. the chain rule)](neuralnetworksanddeeplearning.org book), chapter 2
+  1. [Backpropagation (i.e. the chain rule)](neuralnetworksanddeeplearning.org book), chapter 2
 
-[Chris Olah on backprop](http://colah.github.io/posts/2015-08-Backprop/)
+  2. [Chris Olah on backprop](http://colah.github.io/posts/2015-08-Backprop/)
 
-[Karpathy on backprop](http://cs231n.github.io/optimization-2/)
+  3. [Karpathy on backprop](http://cs231n.github.io/optimization-2/)
 
-**Recurrent Neural Networks (RNN) (which mostly feature LSTM nowadays):
+##Recurrent Neural Networks (RNN) (which mostly feature LSTM nowadays):
 
-**RNNs in general:
+  1. [Karpathy post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 
-[Karpathy post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+  2. [Karpathy talk](https://www.youtube.com/watch?v=yCC09vCHzF8)
 
-[Karpathy talk](https://www.youtube.com/watch?v=yCC09vCHzF8)
+  3. [Excellent annotated Char-NN in Keras tutorial](http://ml4a.github.io/guides/recurrent_neural_networks/)
 
-[Excellent annotated Char-NN in Keras tutorial](http://ml4a.github.io/guides/recurrent_neural_networks/)
+  4. [Andrew Trask post/tutorial](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
-[Andrew Trask post/tutorial](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+  5. [Denny Britz post](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
-[Denny Britz post](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+  6. [Class notes/tutorial (long!)](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)
 
-[Class notes/tutorial (long!)](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)
+  7. [CS class notes (short)](https://www.willamette.edu/~gorr/classes/cs449/rnn1.html)
 
-[CS class notes (short)](https://www.willamette.edu/~gorr/classes/cs449/rnn1.html)
+  8. [Excellent post by Ross Goodwin RNNs](https://medium.com/@rossgoodwin/adventures-in-narrated-reality-6516ff395ba3#.q2xh8dp5t)
 
-[Excellent post by Ross Goodwin RNNs](https://medium.com/@rossgoodwin/adventures-in-narrated-reality-6516ff395ba3#.q2xh8dp5t)
+  9. [Great List of references; ](https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
 
-[Great List of references; ](https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
+  10.[in TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
 
-[in TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
+  11. [Theano tutorial](http://deeplearning.net/tutorial/rnnslu.html)
 
-[Theano tutorial](http://deeplearning.net/tutorial/rnnslu.html)
+  12. [Batch Normalization for](https://arxiv.org/abs/1510.01378) 
 
-[Batch Normalization for](https://arxiv.org/abs/1510.01378) 
+> “applying batch normalization to the hidden-to-hidden transitions of our RNNs doesn’t help the training procedure. We also show that when applied to the input-to-hidden transitions, batch normalization can lead to a faster convergence of the training criterion but doesn’t seem to improve the generalization performance”
 
-> “applying batch normalization to the hidden-to-hidden transitions of our RNNs doesn’t help the training procedure. We also show that >when applied to the input-to-hidden transitions, batch normalization can lead to a faster convergence of the training criterion but >doesn’t seem to improve the generalization performance”
+##Traditional RNNs suffer from vanishing/exploding gradient. Hence LSTM & others…
 
-**Traditional RNNs suffer from vanishing/exploding gradient. Hence LSTM & others…
+##Long Short-Term Memory (LSTM):
 
-**Long Short-Term Memory (LSTM):
+  1. [Tutorial](http://nbviewer.jupyter.org/github/JonathanRaiman/theano_lstm/blob/master/Tutorial.ipynb)
 
-[Tutorial](http://nbviewer.jupyter.org/github/JonathanRaiman/theano_lstm/blob/master/Tutorial.ipynb)
+  2. [Chris Olah post](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
 
-[Chris Olah post](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+  3. [Zach Lipton post, “Demystifying LSTM” (with Tutorial theano code)](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
 
-[Zach Lipton post, “Demystifying LSTM” (with Tutorial theano code)](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
+  4. [Demo: Lightweight Theano-LSTM](https://github.com/JonathanRaiman/theano_lstm)
 
-[Demo: Lightweight Theano-LSTM](https://github.com/JonathanRaiman/theano_lstm)
+  5. [Massive 33-page review article by Lipton et al](http://arxiv.org/abs/1506.00019)
 
-[Massive 33-page review article by Lipton et al](http://arxiv.org/abs/1506.00019)
+  6. [LSTM tutorial in Tensorflow](https://www.tensorflow.org/versions/r0.10/tutorials/recurrent/index.html)
 
->As of March 2016, Keras forum posts show that “stated” RNNs are still an active dev issue. (As of last year, Keras has LSTM but was >resetting the “state”, = inconvenient & slow.)….Update Sept 2016: Seems to be fixed
+  7. [Stateful LSTM in Keras for time-series prediction](https://github.com/fchollet/keras/blob/master/examples/stateful_lstm.py)
 
-[LSTM tutorial in Tensorflow](https://www.tensorflow.org/versions/r0.10/tutorials/recurrent/index.html)
+  8. [Much-need Docs on stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 
-[Stateful LSTM in Keras for time-series prediction](https://github.com/fchollet/keras/blob/master/examples/stateful_lstm.py)
-
-[Much-need Docs on stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
-
-[Tensorflow sequence prediction](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
+  9. [Tensorflow sequence prediction](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)

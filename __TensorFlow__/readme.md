@@ -7,6 +7,8 @@
 
 Update
 
+# Research paper being implemented successfully (will upload soon)
+
 3. [Fast Super Resolution Convolutional Neural Networks]()
 
 4. [Neural Style Transfer In Tensorflow]()

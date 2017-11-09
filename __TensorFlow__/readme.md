@@ -3,3 +3,10 @@
 1. https://github.com/jtoy/awesome-tensorflow/ (** Source Of My  Basic Knowledge ** )
 
 2. https://github.com/tensorflow/tensorflow (Google's Repo)
+
+
+Update
+
+3. [Fast Super Resolution Convolutional Neural Networks]()
+
+4. [Neural Style Transfer In Tensorflow]()

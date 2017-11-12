@@ -137,7 +137,7 @@ General Neural Network References:
 
 ### Concepts in NN/Deep Learning:
 
-  1. [Backpropagation (i.e. the chain rule)](neuralnetworksanddeeplearning.org book), chapter 2
+  1. [Backpropagation](neuralnetworksanddeeplearning.org book), chapter 2
 
   2. [Chris Olah on backprop](http://colah.github.io/posts/2015-08-Backprop/)
 

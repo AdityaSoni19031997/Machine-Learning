@@ -149,7 +149,7 @@ General Neural Network References:
 
   2. [Karpathy talk](https://www.youtube.com/watch?v=yCC09vCHzF8)
 
-  3. [Excellent annotated Char-NN in Keras tutorial](http://ml4a.github.io/guides/recurrent_neural_networks/)
+  3. [Excellent annotated Char-NN in Keras tutorial](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/recurrent_neural_networks.ipynb)
 
   4. [Andrew Trask post/tutorial](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 

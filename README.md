@@ -163,7 +163,7 @@ General Neural Network References:
 
   9. [Great List of references; ](https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
 
-  10.[in TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
+  10.[RNN in TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
 
   11. [Theano tutorial](http://deeplearning.net/tutorial/rnnslu.html)
 

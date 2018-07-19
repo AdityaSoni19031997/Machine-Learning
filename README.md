@@ -112,7 +112,7 @@ by skipping the Math.
  
  
 
- 
+
 ### Bonus Material
 
 General Neural Network References:

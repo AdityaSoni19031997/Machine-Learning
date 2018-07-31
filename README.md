@@ -191,3 +191,7 @@ General Neural Network References:
   8. [Much-need Docs on stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 
   9. [Tensorflow sequence prediction](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
+  
+### Time Series Analysis (Py and R)
+
+  1. [Time Series Handbook , a must read for theoretical understanding, it's light](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)

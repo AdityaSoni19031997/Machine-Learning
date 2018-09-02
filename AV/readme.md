@@ -5,3 +5,8 @@ My Solutions to AV HACKATHONS...
 - Thanks a lot for passing by....
 
 > Enjoy ML & DL !!!
+
+Few of My Kaggle Kernels -
+
+- [Time Series Playground Comp](https://www.kaggle.com/adityaecdrid/my-first-time-series-comp-added-prophet)
+- [MNIST](https://www.kaggle.com/adityaecdrid/mnist-with-keras-for-beginners-99457)

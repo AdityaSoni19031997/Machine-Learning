@@ -163,11 +163,13 @@ General Neural Network References:
 
   9. [Great List of references; ](https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
 
-  10.[RNN in TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
+  10. [RNN in TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/recurrent/index.html)
 
   11. [Theano tutorial](http://deeplearning.net/tutorial/rnnslu.html)
 
-  12. [Batch Normalization to the hidden-to-hidden transitions of our RNNs ](https://arxiv.org/abs/1510.01378) 
+  12. [Batch Normalization to the hidden-to-hidden transitions of our RNNs ](https://arxiv.org/abs/1510.01378)
+  
+  13. [RNN From Scratch in Python](https://peterroelants.github.io/posts/rnn_implementation_part01/)
 
 
 ### Traditional RNNs suffer from vanishing/exploding gradient. Hence LSTM & others…
@@ -191,6 +193,30 @@ General Neural Network References:
   8. [Much-need Docs on stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 
   9. [Tensorflow sequence prediction](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
+  
+  10. [LSTM Forward And Backward Pass Understanding](http://arunmallya.github.io/writeups/nn/lstm/index.html#/)(Very Good!!)
+  
+  11. [Understanding LSTM's](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)(Pretty Awesome!)
+  
+### Attention Is All Your Need's
+
+  1. [Attention Is All You Need - Paper](https://arxiv.org/pdf/1706.03762.pdf)
+  
+  2. **Issues In Keras Github explaining Attention**  (Very Very Important to read!)
+  
+      - https://github.com/keras-team/keras/issues/4962
+    
+      - https://github.com/keras-team/keras/issues/1472
+  
+  3. [LSTM Attention in Keras](https://gist.github.com/mbollmann/ccc735366221e4dba9f89d2aab86da1e)
+  
+  4. [Visualizing Attention In Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
+  
+  5. [Wild ML Attention Explanation](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+  
+  6. [Distll Attention Explanation](https://distill.pub/2016/augmented-rnns/)
+  
+  7. [Git Repo Implemetating Attention in keras](https://github.com/philipperemy/keras-attention-mechanism)
   
 ### Time Series Analysis (Py and R)
 

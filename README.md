@@ -149,7 +149,7 @@ General Neural Network References:
 
   2. [Karpathy talk](https://www.youtube.com/watch?v=yCC09vCHzF8)
 
-  3. [Excellent annotated Char-NN in Keras tutorial](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/recurrent_neural_networks.ipynb)
+  3. [Excellent annotated Char-NN in Keras tutorial](https://github.com/ml4a/ml4a-iguides/blob/master/notebooks/recurrent_neural_networks.ipynb)
 
   4. [Andrew Trask post/tutorial](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
@@ -197,6 +197,8 @@ General Neural Network References:
   10. [LSTM Forward And Backward Pass Understanding](http://arunmallya.github.io/writeups/nn/lstm/index.html#/)(Very Good!!)
   
   11. [Understanding LSTM's](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)(Pretty Awesome!)
+  
+  12. [Nice Question On Stack On LSTM and Non Time Related Feats](https://datascience.stackexchange.com/q/17099/35644)
   
 ### Attention Is All Your Need's
 

@@ -223,3 +223,14 @@ General Neural Network References:
 ### Time Series Analysis (Py and R)
 
   1. [Time Series Handbook , a must read for theoretical understanding, it's light](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
+
+### Awesome Blogs Explaining Decision Trees-:slight_smile:
+
+1. [Data Aspirant Blogspot](https://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
+2. [Scikit Learn Doc's](http://scikit-learn.org/stable/modules/tree.html)
+3. [Data Aspirant Blogpost](http://dataaspirant.com/2017/04/21/visualize-decision-tree-python-graphviz/)
+4. [Analytics Vidhya Blogpost](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
+5. [Amazing Visual Explanation Of Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+Hope it’s Useful…

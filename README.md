@@ -69,7 +69,7 @@ by skipping the Math.
      Sebastian Thrun does an awesome job explaining various approaches in ML. It gets a little boring in the middle
      but overall it's very good. 
 
-### Introduction to Machine Learning (Crash-Course By Berkely and others)
+### Introduction to Machine Learning (Crash-Course By Berkeley and others)
 
 1. [ Machine Learning Crash Course: Part 1 The basics of machine learning - regression, cost functions, and gradient descent.](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 

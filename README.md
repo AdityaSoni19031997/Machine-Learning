@@ -36,6 +36,7 @@ by skipping the Math.
      functions used in Machine Learning. But this course is extremely heavy on Math!
 
 ### Introduction to Programming & Algorithms
+
   * Python - Any one, both courses are equally good
     1. [Complete Python BootCamp](https://www.udemy.com/complete-python-bootcamp/)
     2. [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/)
@@ -55,6 +56,10 @@ by skipping the Math.
   1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
      A must do course, best course of Introduction to Machine Learning so far, light on Math and focuses more on concepts.
      
+  2. [Amazing Course Highly Recommended - [mlcourse.ai](https://mlcourse.ai/)](https://github.com/Yorko/mlcourse.ai)
+      A must do course, best course of Introduction to Machine Learning so far, light on Math and focuses more on concepts
+      and is In Python andsupported by an International community of 15k+ Members..
+      
   Complete one out of two:
   
   1. [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
@@ -64,8 +69,24 @@ by skipping the Math.
      Sebastian Thrun does an awesome job explaining various approaches in ML. It gets a little boring in the middle
      but overall it's very good. 
 
+### Introduction to Machine Learning (Crash-Course By Berkely and others)
+
+1. [ Machine Learning Crash Course: Part 1 The basics of machine learning - regression, cost functions, and gradient descent.](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+
+2. [ Machine Learning Crash Course: Part 2 Perceptrons, logistic regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
+
+3. [ Machine Learning Crash Course: Part 3 Neural networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+
+4. [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma The Bias Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
+
+5. [Machine Learning Crash Course: Part 5 - Decision Trees and Ensemble Models Decision Trees](https://ml.berkeley.edu/blog/2017/12/26/tutorial-5/)
+
+6. [Logistic Regression Vs Decision Trees Vs SVM: Part I](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/)
+
+7. [Logistic Regression Vs Decision Trees Vs SVM: Part II](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part2/)
 
 ### Applied Machine Learning
+
   Two quick courses on applying the theory you learnt. They're short so I recommend doing both of them. 
   
   1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
@@ -86,7 +107,7 @@ by skipping the Math.
     
     3. [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
    
-    4. Must read book on Deep Learning: [Free HTML book](http://www.deeplearningbook.org/)
+    4. Must read book on Deep Learning: [Free HTML book by GoodFellow](http://www.deeplearningbook.org/)
 
   * Big Data & Large Scale Machine Learning
   
@@ -110,9 +131,6 @@ by skipping the Math.
     2. [High Performance Scientific Computing](http://academictorrents.com/details/cb91a3d7a4c4c086be240b54e83ed8d587b31ff5)
  
  
- 
-
-
 ### Bonus Material
 
 General Neural Network References:
@@ -226,11 +244,16 @@ General Neural Network References:
 
 ### Awesome Blogs Explaining Decision Trees-:slight_smile:
 
-1. [Data Aspirant Blogspot](https://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
-2. [Scikit Learn Doc's](http://scikit-learn.org/stable/modules/tree.html)
-3. [Data Aspirant Blogpost](http://dataaspirant.com/2017/04/21/visualize-decision-tree-python-graphviz/)
-4. [Analytics Vidhya Blogpost](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+  1. [Data Aspirant Blogspot](https://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
+  
+  2. [Scikit Learn Doc's](http://scikit-learn.org/stable/modules/tree.html)
+  
+  3. [Data Aspirant Blogpost](http://dataaspirant.com/2017/04/21/visualize-decision-tree-python-graphviz/)
+  
+  4. [Analytics Vidhya Blogpost](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+  
+  5. [Amazing Visual Explanation Of Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  
+Hope it’s Useful...
 
-5. [Amazing Visual Explanation Of Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-Hope it’s Useful…
+Thanks For Passing By!!!

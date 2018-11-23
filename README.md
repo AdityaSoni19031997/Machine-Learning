@@ -58,7 +58,7 @@ by skipping the Math.
      
   2. [Amazing Course Highly Recommended - mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
       A must do course, best course of Introduction to Machine Learning so far, light on Math and focuses more on concepts
-      and is In Python andsupported by an International community of 15k+ Members..
+      and is In Python and is supported by an International community of 15k+ Members..
       
   Complete one out of two:
   
@@ -167,7 +167,7 @@ General Neural Network References:
 
   2. [Karpathy talk](https://www.youtube.com/watch?v=yCC09vCHzF8)
 
-  3. [Excellent annotated Char-NN in Keras tutorial](https://github.com/ml4a/ml4a-iguides/blob/master/notebooks/recurrent_neural_networks.ipynb)
+  3. [Excellent annotated Char-NN in Keras tutorial](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/recurrent_neural_networks.ipynb)
 
   4. [Andrew Trask post/tutorial](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 

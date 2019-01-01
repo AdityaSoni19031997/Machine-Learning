@@ -34,7 +34,9 @@ by skipping the Math.
   7. (Optional) [Stanford Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
      WARNING: Do this course only if you're very good at math. Convex Optimization will teach you numerous
      functions used in Machine Learning. But this course is extremely heavy on Math!
-
+     
+  8. The Book [Probability Theory: The Logic of Science is very promising](https://bayes.wustl.edu/etj/prob/book.pdf) 
+  
 ### Introduction to Programming & Algorithms
 
   * Python - Any one, both courses are equally good
@@ -108,7 +110,9 @@ by skipping the Math.
     3. [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
    
     4. Must read book on Deep Learning: [Free HTML book by GoodFellow](http://www.deeplearningbook.org/)
-
+    
+    5. Must Read book on Deep Learning: [Dive into Deep Learning An Interactive Deep Learning Book for students, engineers and researchers](https://d2l.ai/index.html)
+    
   * Big Data & Large Scale Machine Learning
   
     1. [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction)
@@ -119,6 +123,10 @@ by skipping the Math.
   
     1. [Introduction to Natural Language Processing UMichigan](http://academictorrents.com/details/78515f90de063ffc144be5e7e726c03849b4e0ed)
     2. [Natural Language Processing by Stanford](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
+    
+    3. [NLP 2018 Highlights by Elvis](https://link.medium.com/ARo6XoMT0S)
+    
+    4. [Oxford 2017 NLP Github Resources/Videos etc.](https://github.com/oxford-cs-deepnlp-2017/lectures)   
     
   * Self Driving Car
   

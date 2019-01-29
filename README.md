@@ -1,4 +1,5 @@
 ## Machine Learning & Deep Learning
+[![HitCount](http://hits.dwyl.io/AdityaSoni19031997/Machine-Learning.svg)](http://hits.dwyl.io/AdityaSoni19031997/Machine-Learning)
 
 Loose path:
 1. Math

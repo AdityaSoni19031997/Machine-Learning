@@ -265,7 +265,7 @@ General Neural Network References:
 
 ### Transformers Notes
 
-  1. [Lilianweng Attention Notes](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html done)
+  1. [Lilianweng Attention Notes](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
   2. [Actual Paper](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
   3. [Notes from MLExplained](https://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
   4. [Notes from NLP Harvard](https://nlp.seas.harvard.edu/2018/04/03/attention.html)

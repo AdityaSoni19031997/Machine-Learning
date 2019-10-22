@@ -262,7 +262,20 @@ General Neural Network References:
   4. [Analytics Vidhya Blogpost](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
   
   5. [Amazing Visual Explanation Of Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-  
+
+### Transformers Notes
+
+  1. [Lilianweng Attention Notes](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html done)
+  2. [Actual Paper](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+  3. [Notes from MLExplained](https://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
+  4. [Notes from NLP Harvard](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+  5. [Notes from Mchromiak](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.XZMOoJMzbBI)
+  6. [Slides from a Talk by the Authors](https://nlp.stanford.edu/seminar/details/lkaiser.pdf)
+
+
+### BertViz
+  1. [Bert Viz Medium Blog Post](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
+
 Hope it’s Useful...
 
 Thanks For Passing By!!!

@@ -251,7 +251,7 @@ General Neural Network References:
 
   1. [Time Series Handbook , a must read for theoretical understanding, it's light](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
 
-### Awesome Blogs Explaining Decision Trees-:slight_smile:
+### Awesome Blogs Explaining Decision Trees-:
 
   1. [Data Aspirant Blogspot](https://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
   

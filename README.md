@@ -1,5 +1,5 @@
 ## Machine Learning & Deep Learning
-[![HitCount](http://hits.dwyl.io/AdityaSoni19031997/Machine-Learning.svg)](http://hits.dwyl.io/AdityaSoni19031997/Machine-Learning)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdityaSoni19031997%2FMachine-Learning&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Loose path:
 1. Math
@@ -275,6 +275,43 @@ General Neural Network References:
 
 ### BertViz
   1. [Bert Viz Medium Blog Post](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
+
+
+### Other Random Stuffs
+
+
+#### System Design Distributed Systems
+1. https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/9781491924914-video215265
+2. https://wiki.nikitavoloboev.xyz/distributed-systems
+
+### Decorators
+1. python - Making decorators with optional arguments - Stack Overflow
+2. https://stackoverflow.com/questions/9204671/pythonic-use-of-dict-in-the-function-self-init-of-a-class/
+
+#### Asynchronous Messaging (rabbitMQ etc) 
+1. https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793  (Kafka vs mq P1)
+2. https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41 (Kafka vs mq P2) 
+
+#### Algos (DSA)
+1. https://algotree.org/algorithms/tree_graph_traversal/depth_first_search/
+2. https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/preview?pru=AAABcwi3bWI*FmXAKBN6rtACnzkERXBguA#
+
+#### Load Testing 
+1. https://www.digitalocean.com/community/tutorials/an-introduction-to-load-testing
+
+#### Stats
+1. https://people.richland.edu/james/lecture/m170/ch03-var.html
+
+#### Multi-Processing
+1. https://stackoverflow.com/questions/16181121/a-very-simple-multithreading-parallel-url-fetching-without-queue/27986480#27986480
+2. https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b
+
+#### Asyncio 
+1. https://skipperkongen.dk/2016/09/09/easy-parallel-http-requests-with-python-and-asyncio/
+2. https://medium.com/@cgarciae/making-an-infinite-number-of-requests-with-python-aiohttp-pypeln-3a552b97dc95
+
+#### Tmux
+1. https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 
 Hope it’s Useful...
 

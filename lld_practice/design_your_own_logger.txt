@@ -1,0 +1,57 @@
+"""
+#### HANDLERS ####
+
+- We need to have a base class for all the handlers with abstract methods where ever applicable.
+- We need to Have to handlers defined here as per the question's req's
+    - Streaming handler
+    - File handler
+
+# Null Handler (used when no handlers are pased?)
+
+# Streaming handler
+
+- subclass of handler Class.
+- in order to write the o/p to the terminal, we can dorectly use the inbuilt sys.std.write as our stream
+- Take care of formatting if needed here.
+- flush/write/close/check if handler has a level as well, 
+    check it with the logs level whether this msg should be streamed to all handlers or not
+
+# File handler
+
+- create/check the file for existence, ask if they want to overwrite (use inbuilt system's file open method etc here)
+- acquire a lock and then write to the file and then release the lock as well when done.
+- same formatting/write/detach/close etc will be here as well or put it in the base class as well if it's generic.
+
+# Error Handler? (sys.std.err)
+- TBD, not sure about this or it's working what happens with the stack trace information etc
+
+#### FORMATTERS ####
+- Let's keep this simple only, since nothing was mentioned in the question.
+- A base class which sets the format for the logger
+    -  DEFAULT [logger_name : logger_level] [time] [logged_msg]
+
+ONLY ALLOW DEFAULT LOGGING FORMATTER DUE TO TIME CONSTRAINTS FOR NOW..
+- Reson being we need to extend this as well and then map the same info with the logger keys etc and properly format it (prettyprint basically)
+
+#### MY_SWEET_LOGGER ####
+
+- check_log_level
+- define default levels and mapping and value etc (preference/order)
+- attach handlers to the logger (if any passed)
+- set log_level
+- log_record define which gets called by all log methods like log.info, lof.warn, log.error, check if that elvel is allwoed and then 
+    we pass that log_record to the respective handlers to handler accordingly basically here.
+- check for locks if needed
+- log_name, log_info
+
+#### BASIC CONFIG PARSER ####
+- default sensible logger defaults
+- default schema for setting up the logger during init as well
+- parse the file if needed or exists automatically if the option is passed.
+
+
+############################################################
+- handlers will take care of the formatting as well?
+- multi threaded case? We need to use locks everywhere?
+    - while reading basic config, writing to file/console everytime as well...
+"""

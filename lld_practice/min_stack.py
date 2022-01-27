@@ -134,3 +134,33 @@ class MinStack:
 # obj.pop()
 # param_3 = obj.top()
 # param_4 = obj.getMin()
+
+
+######################################################
+##################Another Simple Idea ################
+######################################################
+
+class MinimumStack:
+    def __init__(self):
+        self.q = []
+    
+    def append(self, val):
+        curMin = self.min()
+        if curMin == None or val < curMin:
+            curMin = val
+        self.q.append((val, curMin));        
+
+    def peek(self):
+        if len(self.q) == 0:
+            return None
+        else:
+            return self.q[len(self.q) - 1][0]        
+
+    def min(self):
+        if len(self.q) == 0:
+            return None
+        else:
+            return self.q[len(self.q) - 1][1]        
+
+    def pop(self):
+        return self.q.pop()[0]

@@ -40,7 +40,7 @@ class ExtendedIter:
         self._next_element and self._has_next.  We poke our
         self._myiter to see if it's still alive and kicking."""
         try:
-            self._next_element = self._myiter.next()
+            self._next_element = next(self._myiter)
             self._has_next = 1
         except StopIteration:
             self.next_element = None

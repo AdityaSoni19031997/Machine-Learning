@@ -1,6 +1,57 @@
 from collections import defaultdict
 from dataclasses import dataclass
 
+
+class EnglishSpanishTranslator:
+    # translate between two languages only (warm-up)
+    def __init__(self) -> None:
+        self.spanish_to_english = defaultdict(str)
+        self.english_to_spanish = defaultdict(str)
+
+    # adds a bi-directional mapping between these words to the knowledge base
+    def addTranslation(self, englishWord: str, spanishWord: str) -> None:
+        self.english_to_spanish[englishWord] = spanishWord
+        self.spanish_to_english[spanishWord] = englishWord
+
+    # gets english for a spanish word else raise an exception
+    def getEnglishWord(self, spanishWord: str):
+        if spanishWord in self.spanish_to_english:
+            return self.spanish_to_english.get(spanishWord)
+        else:
+            # spanmish word is not there, so we don't have the english translation for it.
+            raise KeyError(
+                f"We don't have the translation for this spanish_word -: {spanishWord} to english language unfortunately"
+            )
+
+    # gets spanish for a english word else raise an exception
+    def getSpanishWord(self, englishWord: str):
+        if englishWord in self.english_to_spanish:
+            return self.english_to_spanish.get(englishWord)
+        else:
+            # English word is not there, so we don't have the Spanish translation for it.
+            raise KeyError(
+                f"We don't have the translation for this english_word -: {englishWord} to Spanish language unfortunately"
+            )
+
+
+def test_eng_spa_translator():
+    translator = EnglishSpanishTranslator()
+
+    translator.addTranslation("eng_word_1", "sp_word_1")
+    translator.addTranslation("eng_word_2", "sp_word_2")
+    translator.addTranslation("eng_word_4", "sp_word_4")
+
+    translator.getEnglishWord("sp_word_1")
+    translator.getEnglishWord("sp_word_2")
+
+    translator.getSpanishWord("eng_word_2")
+    translator.getSpanishWord("eng_word_4")
+
+    translator.getSpanishWord("eng_word")  # error
+ 
+
+# A generic idea to implement the same acorss any number of language...
+
 @dataclass
 class Node:
 
